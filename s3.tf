@@ -8,6 +8,6 @@ resource "aws_s3_bucket" "Terraformstate" {
   }
 
    depends_on = [
-    aws_vpc.Utthunga-VPC,
+    aws_vpc.Utthunga-VPC
   ]
 }
