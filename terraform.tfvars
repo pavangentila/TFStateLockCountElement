@@ -1,5 +1,5 @@
-aws_access_key = "AKIAZARZHL5RY4BIQEUK"
-aws_secret_key = "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"
+aws_access_key = "AKIAZARZHL5R22CHX2XB"
+aws_secret_key = "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"
 aws_region = "us-east-1"
 vpc_name = "Utt-VPC"
 IGW_name = "Utt-IGW"
