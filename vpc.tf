@@ -3,8 +3,8 @@ resource "aws_vpc" "Utthunga-VPC" {
     enable_dns_hostnames = true
     tags = {
         Name = "${var.vpc_name}"
-	    Owner = "Pavan Kumar C"
-	#environment = "${var.environment}"
+	Owner = "Pavan Kumar C"
+	environment = "${var.environment}"
     }
 }
 
